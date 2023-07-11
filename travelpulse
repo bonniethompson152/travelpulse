@@ -1,0 +1,957 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="ctl00_Head1">
+
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","headline":"Home","url":"https://www.travelpulse.com/","publisher":{"@type":"Organization","name":"TravelPulse US","logo":{"@type":"imageObject","url":"https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/Site_Management/US/TPUSLogo.svg"}},"thumbnailUrl":"https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/Site_Management/US/TPUSLogo.svg","image":"https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/Site_Management/US/TPUSLogo.svg","postId":"18269TPUS","articleSection":"Home","keywords":["TravelPulse US","Home"]}</script>
+
+
+
+<script>
+var analytics_business_tag='';
+var ad_set_businesstag=[];
+var ad_set_adtype=['WebPage'];
+var ad_set_adsection=['Home'];
+var ad_set_adpostid=['18269TPUS'];
+var ad_set_adcreator=[];
+var ad_set_adkeywords=['TravelPulse US','Home'];
+</script>
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="format-detection" content="telephone=no">
+    
+<link rel="preload" as="image" href="https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/read-latest-news.jpg">
+
+	
+
+
+<style>
+.lazy-background {background-image: none !important;}
+</style>
+
+<link rel="stylesheet" href="/dist/css/style.css?2023062604">
+
+
+
+    <script src="/dist/js/ntmserve.min.js?20230615a"></script>
+
+    
+
+    <script src="/dist/js/adsbygoogle.js?20230418"></script>
+    <script>
+        var bIsAdblocked = (window.isAdsDisplayed === undefined ? "true" : "false");
+    </script>
+
+
+<script>
+ var gaPagekey = 58433572;
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5HN587X');</script>
+<!-- End Google Tag Manager -->
+<meta name="twitter:card" content="summary">
+
+
+
+
+<link rel="shortcut icon" href="/favicon.ico" />
+<meta name="description" content="Read the latest travel news, offers, guides and insights from TravelPulse to make an informed decision while planning your next vacation." />
+<meta property="fb:app_id" content="168042856714623" />
+<meta property="og:title" content="Travel News, Information and Offers" />
+<meta property="twitter:title" content="Travel News, Information and Offers" />
+<meta property="og:image" content="https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/Site_Management/US/TPUSLogo.svg?tr=w-1200%2Cfo-auto" />
+<meta property="twitter:image" content="https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/Site_Management/US/TPUSLogo.svg?tr=w-1200%2Cfo-auto" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Read the latest travel news, offers, guides and insights from TravelPulse to make an informed decision while planning your next vacation." />
+<meta property="twitter:description" content="Read the latest travel news, offers, guides and insights from TravelPulse to make an informed decision while planning your next vacation." />
+<meta property="og:url" content="https://www.travelpulse.com" />
+<meta name="pagesource" content="AWS AWS.CACHE;" />
+<meta name="Pagekey" content="58433572" />
+<meta name="contentid" content="18269" />
+<meta name="ntm-content-id" content="18269" />
+<meta name="ntm-content-type" content="no-search" /><!-- START AD CONFIG --><script>
+  OAS_IsHome = true;  GAM_IsHome = true;
+  OAS_sitepage = '';  GAM_sitepage = '';
+  OAS_site = 'TravelPulseUS';  GAM_site = 'TravelPulseUS';
+  OAS_accountid = '94102080';  GAM_accountid = '94102080';
+function setupDFPSlots(path,breakpoint){
+if (breakpoint==""){
+renderslot(path,'\'outofpage\'', 'div-gpt-ad-Full-Page-Flex','Full Page Flex','','');
+renderslot(path,'[[970,250],[970,90]]', 'div-gpt-ad-Top','Top','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-Right1','Right1','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-Right2Home','Right2Home','','');
+renderslot(path,'[[970,250],[970,90]]', 'div-gpt-ad-Middle-1','Middle 1','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-Right4','Right4','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-Right3','Right3','','');
+renderslot(path,'[[970,250],[970,90]]', 'div-gpt-ad-Middle-2','Middle 2','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-Right5','Right5','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-Right6','Right6','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-Right7','Right7','','');
+renderslot(path,'[[970,250],[970,90]]', 'div-gpt-ad-Bottom','Bottom','','');
+renderslot(path,'[2560,90]', 'div-gpt-ad-tpfooter','tpfooter','','');
+}
+if (breakpoint=="mobile"){
+renderslot(path,'\'outofpage\'', 'div-gpt-ad-mobile-Full-Page-Flex','Full Page Flex','','');
+renderslot(path,'[320,100]', 'div-gpt-ad-mobile-Mobile-Top','Mobile Top','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-mobile-Right1','Right1','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-mobile-Right2Home','Right2Home','','');
+renderslot(path,'[320,100]', 'div-gpt-ad-mobile-Mobile-Middle-1','Mobile Middle 1','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-mobile-Right4','Right4','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-mobile-Right3','Right3','','');
+renderslot(path,'[320,100]', 'div-gpt-ad-mobile-Mobile-Middle-2','Mobile Middle 2','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-mobile-Right5','Right5','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-mobile-Right6','Right6','','');
+renderslot(path,'[300,250]', 'div-gpt-ad-mobile-Right7','Right7','','');
+renderslot(path,'[320,100]', 'div-gpt-ad-mobile-Mobile-Bottom','Mobile Bottom','','');
+renderslot(path,'[400,100]', 'div-gpt-ad-mobile-tpfooter','tpfooter','','');
+}
+}  OAS_query = '&';  GAM_query = '&';
+  initOASAd(true); //init ads
+</script>
+<!-- END AD CONFIG --><title>
+	Travel News, Offers, Guides and Insights | TravelPulse
+</title></head>
+
+<body id="ctl00_body" class="template-body" style="overflow-x: hidden">
+
+        
+        <style>
+            .sponsored-title .card-title-1, .sponsored-title .name {font-size: 14px;}
+            .sponsored-title {color: white;}
+            #discover-new-offers .cards-with-label .card {width: 156px;}
+            .footer { margin-bottom: 6.875rem !important }
+        </style>
+
+        <div id="fixed-parallax-container" style="background: linear-gradient(0deg, rgba(9, 16, 29, 0.2), rgba(9, 16, 29, 0.2)), url(https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/read-latest-news.jpg); position: fixed; inset: 0px; z-index: -2;"></div>
+        <div id="absolute-parallax-slider" style="top: 0px; bottom: unset; background: linear-gradient(0deg, rgba(9, 16, 29, 0.2), rgba(9, 16, 29, 0.2))), url(https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/read-latest-news.jpg);"></div>
+
+    
+
+    <script>
+function initNTGOTags(){
+}
+</script>
+<script src="//ai.northstartravelmedia.com/track/?s=&oid=a096c672423f4f0b959219cb6a289904"></script>
+
+<!-- GA4 Script Start -->
+<script>
+window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-3MYHLVLKZQ');
+
+// content
+gtag('event', 'content', {
+'most_read':'18269 |  |  | 58433572',
+'page_name':'(18269) Home',
+'main_type':'News',
+'publisher':'TravelPulse US',
+'template':'Basic'
+});
+
+// directory_metadata
+
+
+// directory_search
+
+</script>
+<!-- GA4 Script End -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2784177-1', '');
+ga('send', 'pageview',{
+'dimension3':'News'
+,'dimension2':'(18269) Home'
+,'dimension5':'Basic'
+,'dimension1':'18269 |  |  | 58433572'
+,'dimension11':'false'
+});
+ga('send', 'event', 'Content', 'Template','Basic',{nonInteraction:  true});
+ga('send', 'event', 'Content', 'Topic','Home',{nonInteraction:  true});
+ga('send', 'event', 'Content', 'Parms','/',{nonInteraction:  true});
+try {ga('send', 'event', 'User', '',NTM_TRK_ID,{nonInteraction:  true});}catch(err){}
+ga('send', 'event', 'User', 'Ads Blocked',(bIsAdblocked=="true"?"Y":"N"),{nonInteraction:  true});
+var trackingPageName='(18269) Home';
+</script>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HN587X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div id="div-gpt-ad-Full-Page-Flex"  style="height: 0px;">
+<script>
+renderAd('div-gpt-ad-Full-Page-Flex');
+</script>
+</div>
+<div id="div-gpt-ad-mobile-Full-Page-Flex"  style="height: 0px;">
+<script>
+renderAd('div-gpt-ad-mobile-Full-Page-Flex');
+</script>
+</div>
+
+
+    
+
+    
+        <div>
+            <div class="horizontal-aadd">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div id="div-gpt-ad-Top"  class="aadd-img d-flex flex-row justify-content-center" style="min-height:90px;">
+<script>
+renderAd('div-gpt-ad-Top');
+</script>
+</div>
+<div class="d-lg-none d-block"><div id="div-gpt-ad-mobile-Mobile-Top"  style="min-height:100px;">
+<script>
+renderAd('div-gpt-ad-mobile-Mobile-Top');
+</script>
+</div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+
+    <div class="us-home w-100">
+        <div class="header-section sticky-top">
+    
+
+    <header>
+	<div >
+        <div class="d-lg-block d-none">
+            <div class="border-bottom breadcrumbs transparent py-1">
+                <div class="container">
+                    <div class="justify-content-between row align-items-center ">
+                        <div class="col col-lg-4 col-md-5">
+                        </div>
+                        <div class="col col-lg-8 col-md-7 text-end">
+                            <ul class="list-unstyled m-0">
+                                <li class="d-inline-block pe-lg-3 pe-2 dropdown">
+                                    <a href="\" class="text-xs text-white dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <span class="d-md-inline-block d-none pe-2">EDITION</span>
+                                        <span class="img-usa">
+                                            <img src="/dist/images/icons/globe.png" alt="Travel Pulse Editions" title="Travel Pulse Editions" height="24" width="24" class="d-md-inline-block d-none">
+                                            <img src="/dist/images/icons/globe-blue.png" alt="Travel Pulse Editions" title="Travel Pulse Editions"  height="24" width="24" class="d-md-none d-inline-block">
+                                        </span>
+                                    </a>
+                                    <ul class="dropdown-menu" ><li><a class="dropdown-item pb-20 text-xs" target="_blank" rel="noopener" href="https://www.travelpulse.com" title="U.S.A| English" >U.S.A<br><span class="regular-text-xs"> English</span></a></li><li><a class="dropdown-item pb-20 text-xs" target="_blank" rel="noopener" href="https://ca.travelpulse.com" title="Canada|English" >Canada<br><span class="regular-text-xs">English</span></a></li><li><a class="dropdown-item pb-20 text-xs" target="_blank" rel="noopener" href="https://www.travelpulsequebec.ca" title="Canada Quebéc|Francoís" >Canada Quebéc<br><span class="regular-text-xs">Francoís</span></a></li></ul>
+                                </li>
+                                <li class="d-inline-block ps-lg-3 ps-2 border-left-1"><a href="https://signup.travelpulse.com/general-registration/" target="_blank" rel="noopener" class="text-xs text-white"  title="Subscribe">SUBSCRIBE</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav class="navbar navbar-expand-lg primary-blue-bg transparent n-1">
+            <div class="container p-0 px-lg-0">
+                <button id="navbarToggleBtn" class="navbar-toggler collapsed ps-4" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-brand">
+                    <a aria-label="TravelPulse US" href="/" class="text-decoration-none"><div class="pe-14 d-lg-block d-none"><img width="146" height="38"  alt="TravelPulse US"  title="TravelPulse US"  src="https://ik.imgkit.net/3vlqs5axxjf/TP-US/ik-seo/uploadedImages/Site_Management/US/TPUSLogo/TravelPulse-US.svg?tr=w-146%2Ch-38%2Cfo-auto"></div><div class="d-lg-none d-block pb-2"><img style="width:173px;height:45px" width="173" height="45"  alt="TravelPulse US"  title="TravelPulse US"  src="https://ik.imgkit.net/3vlqs5axxjf/TP-US/ik-seo/uploadedImages/Site_Management/US/TPUSLogo/TravelPulse-US.svg?tr=w-173%2Ch-45%2Cfo-auto"></div></a>
+                </div>
+                <div class="collapse navbar-collapse order-2 order-lg-1" id="navbarNavDropdown">
+                    <div class="w-100">
+                        <div class="d-lg-none d-block">
+                            <div class="border-bottom breadcrumbs py-1">
+                                <div class="container">
+                                    <div class="justify-content-between row align-items-center ">
+                                        <div class="col col-lg-4 col-md-5">
+                                        </div>
+                                        <div class="col col-lg-8 col-md-7 text-end">
+                                            <ul class="list-unstyled m-0">
+                                                <li class="d-inline-block pe-lg-3 pe-2 dropdown">
+                                                    <a href="\" class="text-xs text-white dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                                        <span class="d-md-inline-block d-none pe-2">EDITION</span>
+                                                        <span class="img-usa">
+                                                            <img src="/dist/images/icons/globe.png" alt="Travel Pulse Editions" title="Travel Pulse Editions" height="24" width="24"class="d-md-inline-block d-none">
+                                                            <img src="/dist/images/icons/globe-blue.png" alt="Travel Pulse Editions" title="Travel Pulse Editions" height="24" width="24"class="d-md-none d-inline-block">
+                                                        </span>
+                                                    </a>
+                                                    <ul class="dropdown-menu" ><li><a class="dropdown-item pb-20 text-xs" target="_blank" rel="noopener" href="https://www.travelpulse.com" title="U.S.A| English" >U.S.A<br><span class="regular-text-xs"> English</span></a></li><li><a class="dropdown-item pb-20 text-xs" target="_blank" rel="noopener" href="https://ca.travelpulse.com" title="Canada|English" >Canada<br><span class="regular-text-xs">English</span></a></li><li><a class="dropdown-item pb-20 text-xs" target="_blank" rel="noopener" href="https://www.travelpulsequebec.ca" title="Canada Quebéc|Francoís" >Canada Quebéc<br><span class="regular-text-xs">Francoís</span></a></li></ul>
+                                                </li>
+                                                 <li class="d-inline-block ps-lg-3 ps-2 border-left-1"><a href="https://signup.travelpulse.com/general-registration/" target="_blank" rel="noopener" class="text-xs text-white"  title="Subscribe">SUBSCRIBE</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="navbar-nav d-flex justify-content-lg-evenly w-100"><li class="nav-item grid-nav-li"><a class="nav-link active semi-bold-text-sm text-white grid-nav-link dropdown-toggle border-bottom-1" data-bs-toggle="dropdown" aria-expanded="false" href="#" title="News" >News</a><ul class="dropdown-menu main-gridbox-ul three-gridbox "data-bs-popper="none"><li class="main-gridbox-li padding-left-custom-mobile"><ul class="inner-grid-box-ul"><li><a href="/News" title="Latest News" >Latest News</a></li><li><a href="/News/Airlines-Airports" title="Airlines and Airports" >Airlines and Airports</a></li><li><a href="/News/Business-Travel" title="Business Travel" >Business Travel</a></li><li><a href="/News/Car-and-Rail" title="Car and Rail" >Car and Rail</a></li><li><a href="/News/Cruise" title="Cruise" >Cruise</a></li><li><a href="/news/destinations" title="Destinations" >Destinations</a></li><li><a href="/News/Entertainment" title="Entertainment" >Entertainment</a></li><li><a href="/News/Features" title="Features & Advice" >Features & Advice</a></li><li><a href="/News/Impacting-Travel" title="Impacting Travel" >Impacting Travel</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile"><ul class="inner-grid-box-ul"><li><a href="/News/Host" title="Host Agency & Consortia" >Host Agency & Consortia</a></li><li><a href="/News/Hotels-and-Resorts" title="Hotels and Resorts" >Hotels and Resorts</a></li><li><a href="/News/LGBTQ" title="LGBTQ+" >LGBTQ+</a></li><li><a href="/News/People" title="People" >People</a></li><li><a href="/News/Technology" title="Technology" >Technology</a></li><li><a href="/News/Agents" title="Travel Agents" >Travel Agents</a></li><li><a href="/News/Tour-Operators" title="Tour Operators" >Tour Operators</a></li><li><a href="/News/Vacation-Packages" title="Vacation Packages" >Vacation Packages</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile d-lg-block d-none"><a href="/news/hotels-and-resorts/how-to-select-a-luxury-villa-for-your-client-expert-tips-for-travel-advisors" class="link-wrapper"  data-tpgk="58856830"   title="How to Select a Luxury Villa for Your Client: Expert Tips for Travel Advisors"><div class="d-flex"><figure class="m-0"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/9a54673d-bdfb-334e-348f-2621821cb8c0/source/How-to-Select-a-Luxury-Villa-for-Your-Client-Exper.jpg?tr=w-137%2Ch-137%2Cfo-auto"  alt="Atlantis, Saint Lucia"  title="Atlantis, Saint Lucia"   class="rounded" loading="lazy"/></figure><div class="ps-4 pt-2"><p class="medium-text-xs pb-1 m-0" style="color: #EAEFF4;">Hotels and Resorts</p><p class="regular-text-sm pb-1 m-0 font-f-r-s" style="color: #EAEFF4; padding-right: 12px;">How to Select a Luxury Villa for Your Client: Expert Tips for Travel Advisors</p><p class="regular-text-sm pb-1 m-0" style="color: #EAEFF4;">Laurie Baratti</p></div></div></a>
+
+
+</li></ul></li><li class="nav-item grid-nav-li"><a class="nav-link active semi-bold-text-sm text-white grid-nav-link dropdown-toggle border-bottom-1" data-bs-toggle="dropdown" aria-expanded="false" href="#" title="Industry Voices" >Industry Voices</a><ul class="dropdown-menu main-gridbox-ul three-gridbox "data-bs-popper="none"><li class="main-gridbox-li padding-left-custom-mobile"><ul class="inner-grid-box-ul"><li><a href="/Voices/Opinions" title="Opinions"  target="_parent">Opinions</a></li><li><a href="/Voices/Blogs" title="Blogs​"  target="_parent">Blogs​</a></li><li><a href="/Voices/Podcasts" title="Podcasts​"  target="_parent">Podcasts​</a></li><li><a href="/Voices/Videos" title="Video​s"  target="_parent">Video​s</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile d-lg-block d-none"><a href="/voices/opinions/bowman-s-travel-brief-next-level-entertainment" class="link-wrapper"  title="Bowman’s Travel Brief: Next-Level Entertainment"><div class="d-flex"><figure class="m-0"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/4b916ef5-ea45-42ea-ad1c-78a32a37b35b/source/Bowman%e2%80%99s-Travel-Brief-Next-Level-Entertainment.png?tr=w-137%2Ch-137%2Cfo-auto"  alt="The Sphere Las Vegas "  title="The Sphere Las Vegas "   class="rounded" loading="lazy"/></figure><div class="ps-4 pt-2"><p class="medium-text-xs pb-1 m-0" style="color: #EAEFF4;">Opinions</p><p class="regular-text-sm pb-1 m-0 font-f-r-s" style="color: #EAEFF4; padding-right: 12px;">Bowman’s Travel Brief: Next-Level Entertainment</p><p class="regular-text-sm pb-1 m-0" style="color: #EAEFF4;">Eric Bowman</p></div></div></a>
+
+
+</li><li class="main-gridbox-li padding-left-custom-mobile d-lg-block d-none"><a href="/voices/opinions/the-airlines-have-us-in-a-hold-despite-the-problems-they-continue-to-have" class="link-wrapper"  title="The Airlines Have Us in a Hold Despite the Problems They Continue to Have"><div class="d-flex"><figure class="m-0"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/a2edebe8-c4bc-73c4-8416-5aae34fab68f/source/The%c2%a0Airlines-Have-Us-in-a-Hold-Despite-the-Problem.jpg?tr=w-137%2Ch-137%2Cfo-auto"  alt="plane, flight, DFW, Dallas Fort Worth, Texas, airport"  title="A plane taking off from Dallas Fort Worth International Airport"   class="rounded" loading="lazy"/></figure><div class="ps-4 pt-2"><p class="medium-text-xs pb-1 m-0" style="color: #EAEFF4;">Opinions</p><p class="regular-text-sm pb-1 m-0 font-f-r-s" style="color: #EAEFF4; padding-right: 12px;">The Airlines Have Us in a Hold Despite the Problems They Continue to Have</p><p class="regular-text-sm pb-1 m-0" style="color: #EAEFF4;">Rich Thomaselli</p></div></div></a>
+
+
+</li></ul></li><li class="nav-item grid-nav-li"><a class="nav-link active semi-bold-text-sm text-white grid-nav-link dropdown-toggle border-bottom-1" data-bs-toggle="dropdown" aria-expanded="false" href="#" title="Offers" >Offers</a><ul class="dropdown-menu main-gridbox-ul three-gridbox "data-bs-popper="none"><li class="main-gridbox-li padding-left-custom-mobile"><ul class="inner-grid-box-ul"><li><a href="/Offers" title="Latest Offers" >Latest Offers</a></li><li><a href="/Offers/Airlines-and-Airports" title="Airlines and Airports" >Airlines and Airports</a></li><li><a href="/Offers/Business-Travel" title="Business Travel" >Business Travel</a></li><li><a href="/Offers/Car-and-Rail" title="Car and Rail" >Car and Rail</a></li><li><a href="/Offers/Cruise" title="Cruise" >Cruise</a></li><li><a href="/Offers/Destinations" title="Destinations" >Destinations</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile"><ul class="inner-grid-box-ul"><li><a href="/Offers/Host" title="Host / Consortia" >Host / Consortia</a></li><li><a href="/Offers/Hotels-and-Resorts" title="Hotels and Resorts" >Hotels and Resorts</a></li><li><a href="/Offers/Technology" title="Technology" >Technology</a></li><li><a href="/Offers/Vacation-Packages" title="Vacation Packages" >Vacation Packages</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile d-lg-block d-none"><a href="/offers/tour-operators/join-the-adventure-summer-sale" class="link-wrapper"  data-tpgk="58855330"   title="Join the Adventure Summer Sale"><div class="d-flex"><figure class="m-0"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/3adfe245-f469-4eb5-a8df-2a274bb3c873/source/Join-the-Adventure-Summer-Sale.jpg?tr=w-137%2Ch-137%2Cfo-auto"  alt="Join the Adventure Summer Sale"  title="Join the Adventure Summer Sale"   class="rounded" loading="lazy"/></figure><div class="ps-4 pt-2"><p class="medium-text-xs pb-1 m-0" style="color: #EAEFF4;">Tour Operators</p><p class="regular-text-sm pb-1 m-0 font-f-r-s" style="color: #EAEFF4; padding-right: 12px;">Join the Adventure Summer Sale</p><p class="regular-text-sm pb-1 m-0" style="color: #EAEFF4;">Exodus Travels</p></div></div></a>
+
+
+</li></ul></li><li class="nav-item grid-nav-li"><a class="nav-link active semi-bold-text-sm text-white grid-nav-link dropdown-toggle border-bottom-1" data-bs-toggle="dropdown" aria-expanded="false" href="#" title="Destinations" >Destinations</a><ul class="dropdown-menu main-gridbox-ul three-gridbox "data-bs-popper="none"><li class="main-gridbox-li padding-left-custom-mobile"><ul class="inner-grid-box-ul"><li><a href="/Destinations" title="All Destinations" >All Destinations</a></li><li><a href="/Destinations/Africa" title="Africa" >Africa</a></li><li><a href="/Destinations/Asia" title="Asia​" >Asia​</a></li><li><a href="/Destinations/Caribbean" title="Caribbean​" >Caribbean​</a></li><li><a href="/Destinations/Central-America" title="Central America​" >Central America​</a></li><li><a href="/Destinations/Europe" title="Europe​" >Europe​</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile"><ul class="inner-grid-box-ul"><li><a href="/Destinations/Mediterranean" title="Mediterranean​" >Mediterranean​</a></li><li><a href="/Destinations/Middle-East" title="Middle East​" >Middle East​</a></li><li><a href="/Destinations/North-America" title="North America​​" >North America​​</a></li><li><a href="/Destinations/Pacific" title="Pacific​" >Pacific​</a></li><li><a href="/Destinations/Polar-Adventure" title="Polar Adventure" >Polar Adventure</a></li><li><a href="/Destinations/South-America" title="South America" >South America</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile d-lg-block d-none"><a href="/news/destinations/spotlighting-2023-travvy-award-nominees-best-destinations" class="link-wrapper"  title="Spotlighting 2023 Travvy Award Nominees: Best Destinations"><div class="d-flex"><figure class="m-0"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/37811b0d-f2ae-4a0a-ad8b-ef69382e133a/source/Spotlighting-2023-Travvy-Award-Nominees-Best%c2%a0Desti.jpeg?tr=w-137%2Ch-137%2Cfo-auto"  alt="Mellieha, Malta"  title="Mellieha, Malta"   class="rounded" loading="lazy"/></figure><div class="ps-4 pt-2"><p class="medium-text-xs pb-1 m-0" style="color: #EAEFF4;">Destinations</p><p class="regular-text-sm pb-1 m-0 font-f-r-s" style="color: #EAEFF4; padding-right: 12px;">Spotlighting 2023 Travvy Award Nominees: Best Destinations</p><p class="regular-text-sm pb-1 m-0" style="color: #EAEFF4;">TravelPulse Staff</p></div></div></a>
+
+
+</li></ul></li><li class="nav-item grid-nav-li"><a class="nav-link active semi-bold-text-sm text-white grid-nav-link dropdown-toggle border-bottom-1" data-bs-toggle="dropdown" aria-expanded="false" href="#" title="Education" >Education</a><ul class="dropdown-menu main-gridbox-ul three-gridbox single-grid-mobile "data-bs-popper="none"><li class="main-gridbox-li padding-left-custom-mobile"><ul class="inner-grid-box-ul"><li><a href="/Education" title="All Education" >All Education</a></li><li><a href="https://signup.travelpulse.com/travelagentacademy/" title="Travel Agent Academy"  target="_blank" rel="noopener">Travel Agent Academy</a></li><li><a href="/Education/Webinars" title="Webinars" >Webinars</a></li><li><a href="https://signup.travelpulse.com/virtualtravelevents/" title="Virtual Events"  target="_blank" rel="noopener">Virtual Events</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile d-lg-block d-none"></li><li class="main-gridbox-li padding-left-custom-mobile d-lg-block d-none"></li></ul></li><li class="nav-item grid-nav-li"><a class="nav-link active semi-bold-text-sm text-white grid-nav-link dropdown-toggle border-bottom-1" data-bs-toggle="dropdown" aria-expanded="false" href="#" title="Resources" >Resources</a><ul class="dropdown-menu main-gridbox-ul four-gridbox single-grid-mobile "data-bs-popper="none"><li class="main-gridbox-li padding-left-custom-mobile"><a href="#" class="dropdown-item dropdown-toggle pb-lg-2 ps-md-6 ps-0 text-md secondary-grey" data-bs-toggle="dropdown" data-bs-auto-close="outside">Planning</a><ul class="inner-grid-box-ul"><li><a href="/Resources/Covid-19-Travel-Map" title="Covid-19 Travel Map" >Covid-19 Travel Map</a></li><li><a href="/Guides" title="Digital Guides" >Digital Guides</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile"><a href="#" class="dropdown-item dropdown-toggle pb-lg-2 ps-md-6 ps-0 text-md secondary-grey" data-bs-toggle="dropdown" data-bs-auto-close="outside">Publications & Events</a><ul class="inner-grid-box-ul"><li><a href="https://signup.travelpulse.com/agent-at-home/" title="AGENTatHOME"  target="_blank" rel="noopener">AGENTatHOME</a></li><li><a href="https://signup.travelpulse.com/travvys/" title="Travvy Awards"  target="_blank" rel="noopener">Travvy Awards</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile"><a href="#" class="dropdown-item dropdown-toggle pb-lg-2 ps-md-6 ps-0 text-md secondary-grey" data-bs-toggle="dropdown" data-bs-auto-close="outside">Resources</a><ul class="inner-grid-box-ul"><li><a href="/Resources/Find-A-Supplier" title="Find a Supplier"  target="_parent">Find a Supplier</a></li><li><a href="/Advertise" title="Advertise With Us"  target="_parent">Advertise With Us</a></li><li><a href="/Contact-Us" title="Contact Us" >Contact Us</a></li></ul></li><li class="main-gridbox-li padding-left-custom-mobile d-lg-block d-none"></li></ul></li></ul>
+                    </div>
+                </div>
+                <button id="header-1" onclick="$('.search-close').slideToggle(); $(this).css({ visibility: 'hidden' })" title="Search" class="search-toggler btn-search-bar order-1" type="button">
+                    <span class="search-toggler-icon"></span>
+                </button>
+            </div>
+        </nav>
+        
+
+<div class="search-box jq-search-form">
+    <div class="container position-relative">
+        <button onclick="$('#header-1').css({ visibility: 'visible' }); $('.search-box').slideToggle(); $(this).slideToggle()" class="search-close order-1" type="button">
+            <i class="bi bi-x-lg"></i>
+        </button>
+        <div class="d-flex flex-row py-3 px-0 search-input">
+            <div class="flex-grow-1">
+                <div class="form-group has-search position-relative">
+                    <img src="/dist/images/icons/search.svg" height="36" width="36" loading="lazy" alt=Search" title="Search" class="form-control-feedback">
+                    <input type="text" class="form-control jq-search-term" placeholder="Enter Search Term">
+                </div>
+            </div>
+            <div class="d-sm-flex d-none form-group ms-6">
+            </div>
+            <div class="form-group d-sm-flex d-none">
+                <a href="#" title="Search" class="btn btn-search-bar form-control jq-btn-search">Search</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+
+</div>
+    </header>
+
+</div>
+
+
+         <div class="overflow-auto h-100 content-scroll">
+            <div >
+
+                <form method="post" action="https://www.travelpulse.com/Content/GenericPage.aspx?ptgpk=58433572&amp;requrl" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="T6SRL7o5eo4ukvFowKE7h6FvkexvY/Wzd6grswFPp5I1h02ZaqmZP1oyRXV1pjtHaMpAeegPlDB1yCceDKffcLMkl8jWA3e76PSp0OCYVsbhsJdtmT9BhPkqh++9LiJ2SfluLJF9RDBnJ3EnTTyyDBKOZo9GcuS1Z5BZDePopszYho5GY9BMIfHpYBbNw8FseTHT9CQmeigSUZdTYIHfinX9rkCVyoMjaIkYptLjniLrVfxOujuWGN4iRqczTRRMvIXs3uWDrohrhx9j59l9ql/RAAI=" />
+</div>
+
+                    
+    <div id="read-latest-news" class="parallax-trigger" _background="linear-gradient(0deg, rgba(9, 16, 29, 0.2), rgba(9, 16, 29, 0.2)), url('https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/read-latest-news.jpg')"><div style="clear:both"  class="container">
+
+
+        <div class="container py-6 px-md-6 px-xs-2">
+            <div class="title-heading"><div class="container pt-2"><div class="title-heading"><div class="row section-title pb-4 centered-title-container centered-title full-size-heading content-below"><div class="section-title-content col-lg-12 d-lg-flex align-items-baseline d-sm-block"><h1 class="scroll-to-headings d-flex flex-wrap flex-sm-row text-center justify-content-center text-white"><a href="/News">Today's Top Stories</a></h1><p class="date ms-auto d-sm-inline posted-on text-white">July 11, 2023 | 1:29 AM</p></div></div></div></div></div>
+            <div class="row d-flex g-4">
+                <div class="col-12 col-lg news-list flex-row flex-sm-column overflow-auto order-2 order-lg-0">
+                    <div class="news-list-item d-flex flex-column py-3 px-2 px-sm-0"><span class="date pb-1">July 10, 2023</span><a href="/news/cruise/american-queen-voyages-unveils-great-ameri-cation-sale" class="title pt-1"  data-tpgk="58856785"   title="American Queen Voyages Unveils ‘Great Ameri-Cation Sale’">American Queen Voyages Unveils ‘Great Ameri-Cation Sale’</a></div><div class="news-list-item d-flex flex-column py-3 px-2 px-sm-0"><span class="date pb-1">July 10, 2023</span><a href="/news/agents/win-a-stay-at-the-family-friendly-grand-palladium-bavaro-suites-resort-spa" class="title pt-1"  data-tpgk="58856923"   title="Win a Stay at the Family-Friendly Grand Palladium Bavaro Suites Resort &amp; Spa">Win a Stay at the Family-Friendly Grand Palladium Bavaro Suites Resort &amp; Spa</a></div><div class="news-list-item d-flex flex-column py-3 px-2 px-sm-0"><span class="date pb-1">July 10, 2023</span><a href="/news/destinations/spotlighting-2023-travvy-award-nominees-best-destinations" class="title pt-1"  title="Spotlighting 2023 Travvy Award Nominees: Best Destinations">Spotlighting 2023 Travvy Award Nominees: Best Destinations</a></div><div class="news-list-item d-flex flex-column py-3 px-2 px-sm-0"><span class="date pb-1">July 10, 2023</span><a href="/news/cruise/crystal-serenity-completes-sea-trials-as-it-readies-for-inaugural-july-sailing" class="title pt-1"  data-tpgk="58856793"   title="Crystal Serenity Completes Sea Trials As It Readies for Inaugural July Sailing">Crystal Serenity Completes Sea Trials As It Readies for Inaugural July Sailing</a></div><div class="news-list-item d-flex flex-column py-3 px-2 px-sm-0"><span class="date pb-1">July 10, 2023</span><a href="/news/airlines-airports/global-aviation-summit-calls-for-urgent-action-on-gender-equality" class="title pt-1"  title="Global Aviation Summit Calls for Urgent Action on Gender Equality">Global Aviation Summit Calls for Urgent Action on Gender Equality</a></div>
+                </div>
+                <div class="col-12 col-lg-5 order-0 order-lg-1">
+                    <div class="hero-image-with-options h-100 w-100">
+                        <a href="/news/destinations/will-europes-new-border-entry-system-present-challenges-for-travelers"  title="Will Europe's New Border Entry System Present Challenges for Travelers?"><div class="item position-relative w-100" style="background-image: url('https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/40af2cdf-f4fc-4c59-a2e2-8717611ec104/source/Will-Europe%27s-New-Border-Entry-System-Present-Chal.jpg?tr=w-435%2Ch-405%2Cfo-auto');"><div class="text position-absolute px-6">Will Europe's New Border Entry System Present Challenges for Travelers?</div></div></a>
+                        <div class="options position-relative w-100 pb-4">
+                            <div class="justify-content-center row">
+                                <div><a href="/news/hotels-and-resorts/how-to-select-a-luxury-villa-for-your-client-expert-tips-for-travel-advisors" class="link"  data-tpgk="58856830"   title="How to Select a Luxury Villa for Your Client: Expert Tips for Travel Advisors"><div class="align-items-center border-top-g d-flex hov"><h4 class="option-name">How to Select a Luxury Villa for Your Client: Expert Tips for Travel Advisors</h4></div></a></div><div><a href="/news/features/americans-taking-longer-trips-spending-more-on-summer-vacations" class="link"  data-tpgk="58856772"   title="Americans Taking Longer Trips, Spending More on Summer Vacations"><div class="align-items-center border-top-g d-flex hov"><h4 class="option-name">Americans Taking Longer Trips, Spending More on Summer Vacations</h4></div></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg d-flex flex-column order-1 order-lg-2">
+                    <div class="d-flex flex-row justify-content-center mb-4">
+                        <div class="card-aadd d-none d-lg-block"><div id="div-gpt-ad-Right1"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-Right1');
+</script>
+</div>
+</div><div class="card-aadd d-lg-none d-block"><div id="div-gpt-ad-mobile-Right1"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-mobile-Right1');
+</script>
+</div>
+</div>
+                    </div>
+                    <div class="d-flex flex-row justify-content-center">
+                        <div class="card-aadd d-none d-lg-block"><div id="div-gpt-ad-Right2Home"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-Right2Home');
+</script>
+</div>
+</div><div class="card-aadd d-lg-none d-block"><div id="div-gpt-ad-mobile-Right2Home"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-mobile-Right2Home');
+</script>
+</div>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-100 d-flex justify-content-center pt-4"><a href="/News"  class="promo-btn mb-10 mb-lg-0 py-2 px-3 btn btn-sm"     title="See All News" >See All News</a></div>
+        </div>
+
+    
+
+
+</div>
+</div>
+
+
+<div style="clear:both"  class="container py-4">
+<div class="aadd-2 py-4 d-none d-lg-block"><div id="div-gpt-ad-Middle-1"  class="col-md-12 aadd-3">
+<script>
+renderAd('div-gpt-ad-Middle-1');
+</script>
+</div>
+</div><div class="aadd-2 py-4 d-lg-none d-block"><div id="div-gpt-ad-mobile-Mobile-Middle-1"  class="col-md-12 aadd-3">
+<script>
+renderAd('div-gpt-ad-mobile-Mobile-Middle-1');
+</script>
+</div>
+</div>
+
+
+
+
+
+</div>
+
+
+<div id="find-opinions-and-blogs" class="parallax-trigger" _background="linear-gradient(0deg, rgba(47, 80, 29, 0.35), rgba(47, 80, 29, 0.35)), url('https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/find-opinions-and-blogs.jpg')"><div style="clear:both"  class="container">
+
+
+        <div class="container py-6 px-md-6 px-xs-2">
+
+            <div class="title-heading"><div class="container pt-2"><div class="title-heading"><div class="row section-title pb-4 centered-title-container full-size-heading"><div class="section-title-content col-lg-12 d-lg-flex align-items-baseline d-sm-block"><h1 class="scroll-to-headings d-flex flex-wrap flex-sm-row text-center justify-content-center text-white">Insights and Advice</h1></div></div></div></div></div>
+
+            <div class="row">
+                <div class="col-12 col-lg-4 d-flex flex-column justify-content-between mb-5 mb-md-0">
+                    
+                        <div>
+                            <div class="related-cards-v mt-3 type-opinions">
+                                <div class="d-flex justify-content-between pb-2">
+                                    <h3 class="heading text-uppercase p-0">
+                                        <a href="/Voices/Opinions" class="link-wrapper"  title="Latest Opinions">Latest Opinions</a></h3>
+                                </div>
+                                <div class="border-top-r mb-4"></div>
+                                <div class="one-card-row">
+                                    <a href="/voices/opinions/bowman-s-travel-brief-next-level-entertainment" class="link-wrapper"  title="Bowman’s Travel Brief: Next-Level Entertainment"><div class="card-set"><div class="image-container card-w"><div class="image-frame card-h card-w"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/4b916ef5-ea45-42ea-ad1c-78a32a37b35b/source/Bowman%e2%80%99s-Travel-Brief-Next-Level-Entertainment.png?tr=w-85%2Ch-85%2Cfo-auto"  alt="The Sphere Las Vegas "  title="The Sphere Las Vegas "   class="cropped-image" loading="lazy" loading="lazy"/></div></div><div class="ps-3"><h4 class="related-name">Bowman’s Travel Brief: Next-Level Entertainment</h4></div></div></a><a href="/voices/opinions/the-airlines-have-us-in-a-hold-despite-the-problems-they-continue-to-have" class="link-wrapper"  title="The Airlines Have Us in a Hold Despite the Problems They Continue to Have"><hr><div class="card-set"><div class="image-container card-w"><div class="image-frame card-h card-w"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/a2edebe8-c4bc-73c4-8416-5aae34fab68f/source/The%c2%a0Airlines-Have-Us-in-a-Hold-Despite-the-Problem.jpg?tr=w-85%2Ch-85%2Cfo-auto"  alt="plane, flight, DFW, Dallas Fort Worth, Texas, airport"  title="A plane taking off from Dallas Fort Worth International Airport"   class="cropped-image" loading="lazy" loading="lazy"/></div></div><div class="ps-3"><h4 class="related-name">The Airlines Have Us in a Hold Despite the Problems They Continue to Have</h4></div></div></a>
+                                </div>
+                            </div>
+                        </div>
+                    
+
+                    <div class="d-flex flex-row justify-content-center">
+                        <div class="card-aadd d-none d-lg-block"><div id="div-gpt-ad-Right4"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-Right4');
+</script>
+</div>
+</div><div class="card-aadd d-lg-none d-block"><div id="div-gpt-ad-mobile-Right4"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-mobile-Right4');
+</script>
+</div>
+</div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-lg d-flex flex-column justify-content-between mb-6 mb-md-0">
+                    <div class="writer-sportlight-transparent-container">
+                        <div class="write-inner-container row align-items-center px-2 px-lg-0 py-0 py-lg-8 position-relative type-blogs">
+                            <div class="image-container w-auto py-4"><img  alt="Claudette Covey"  title="Claudette Covey"  loading="lazy" class="author-image" src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/2a503d12-4d9d-4823-82d3-65e7e26ecd0d/source/Claudette-Covey.png?tr=w-102%2Ch-102%2Cfo-auto"></div><div class="col-12  writer-details text-center flex-column justify-content-between align-items-center"><a href="/bio/claudette-covey"  title="Claudette Covey"  class="link-wrapper d-inline-block"><h1 class="d-block author-name fw-bold">Claudette Covey</h1></a><span class="d-block author-text">Claudette Covey is managing editor of AGENTatHOME</span><div class="buttons d-flex justify-content-center my-3"><a  title="Follow Claudette Covey on Twitter"   target="_blank" rel="noopener" class='btn btn-author-summary  mx-1' aria-label="Twitter" href="https://www.twitter.com/claudettecovey"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.03168 14.5005C11.0694 14.5005 14.3718 9.49823 14.3718 5.16031C14.3718 5.01823 14.3718 4.87679 14.3622 4.73599C15.0047 4.27129 15.5593 3.69591 16 3.03679C15.4009 3.30239 14.7654 3.47649 14.1146 3.55327C14.7999 3.14306 15.3128 2.49779 15.5578 1.73759C14.9134 2.11999 14.2084 2.38947 13.4733 2.53439C12.9783 2.0081 12.3237 1.65961 11.6108 1.54284C10.8978 1.42607 10.1663 1.54753 9.52931 1.88842C8.89234 2.22931 8.38548 2.77064 8.08716 3.42862C7.78884 4.0866 7.71569 4.82456 7.87904 5.52831C6.57393 5.46284 5.29717 5.12366 4.13164 4.53279C2.9661 3.94192 1.93784 3.11256 1.1136 2.09855C0.693819 2.82121 0.565248 3.6767 0.754066 4.49083C0.942885 5.30496 1.43489 6.01652 2.12992 6.48063C1.60749 6.46532 1.09643 6.32438 0.64 6.06975V6.11135C0.640207 6.86925 0.902567 7.60374 1.38258 8.19026C1.86259 8.77677 2.53071 9.17919 3.2736 9.32927C2.79032 9.46109 2.28325 9.48036 1.79136 9.38559C2.00121 10.0378 2.40962 10.6081 2.95949 11.0169C3.50937 11.4256 4.17322 11.6523 4.85824 11.6653C4.17763 12.2002 3.39821 12.5958 2.56458 12.8293C1.73096 13.0627 0.859476 13.1296 0 13.0259C1.50122 13.9893 3.24795 14.5002 5.03168 14.4979" fill="#0B5188"></path><path d="M5.03168 14.5005C11.0694 14.5005 14.3718 9.49823 14.3718 5.16031C14.3718 5.01823 14.3718 4.87679 14.3622 4.73599C15.0047 4.27129 15.5593 3.69591 16 3.03679C15.4009 3.30239 14.7654 3.47649 14.1146 3.55327C14.7999 3.14306 15.3128 2.49779 15.5578 1.73759C14.9134 2.11999 14.2084 2.38947 13.4733 2.53439C12.9783 2.0081 12.3237 1.65961 11.6108 1.54284C10.8978 1.42607 10.1663 1.54753 9.52931 1.88842C8.89234 2.22931 8.38548 2.77064 8.08716 3.42862C7.78884 4.0866 7.71569 4.82456 7.87904 5.52831C6.57393 5.46284 5.29717 5.12366 4.13164 4.53279C2.9661 3.94192 1.93784 3.11256 1.1136 2.09855C0.693819 2.82121 0.565248 3.6767 0.754066 4.49083C0.942885 5.30496 1.43489 6.01652 2.12992 6.48063C1.60749 6.46532 1.09643 6.32438 0.64 6.06975V6.11135C0.640207 6.86925 0.902567 7.60374 1.38258 8.19026C1.86259 8.77677 2.53071 9.17919 3.2736 9.32927C2.79032 9.46109 2.28325 9.48036 1.79136 9.38559C2.00121 10.0378 2.40962 10.6081 2.95949 11.0169C3.50937 11.4256 4.17322 11.6523 4.85824 11.6653C4.17763 12.2002 3.39821 12.5958 2.56458 12.8293C1.73096 13.0627 0.859476 13.1296 0 13.0259C1.50122 13.9893 3.24795 14.5002 5.03168 14.4979" fill="black" fill-opacity="0.2"></path></svg></a><a  title="Email Claudette Covey"   target="_blank" rel="noopener"  href="mailto:ccovey@ntmllc.com" aria-label="Email" class="btn btn-author-summary  mx-1"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.3335 4.66669L6.77678 8.47698C7.21756 8.78553 7.43795 8.9398 7.67767 8.99956C7.88943 9.05234 8.1109 9.05234 8.32265 8.99956C8.56238 8.9398 8.78277 8.78553 9.22355 8.47698L14.6668 4.66669M4.5335 13.3334H11.4668C12.5869 13.3334 13.147 13.3334 13.5748 13.1154C13.9511 12.9236 14.2571 12.6177 14.4488 12.2413C14.6668 11.8135 14.6668 11.2535 14.6668 10.1334V5.86669C14.6668 4.74658 14.6668 4.18653 14.4488 3.75871C14.2571 3.38238 13.9511 3.07642 13.5748 2.88467C13.147 2.66669 12.5869 2.66669 11.4668 2.66669H4.5335C3.41339 2.66669 2.85334 2.66669 2.42552 2.88467C2.04919 3.07642 1.74323 3.38238 1.55148 3.75871C1.3335 4.18653 1.3335 4.74658 1.3335 5.86669V10.1334C1.3335 11.2535 1.3335 11.8135 1.55148 12.2413C1.74323 12.6177 2.04919 12.9236 2.42552 13.1154C2.85334 13.3334 3.41339 13.3334 4.5335 13.3334Z" stroke="#0B5188" stroke-linecap="round" stroke-linejoin="round"></path><path d="M1.3335 4.66669L6.77678 8.47698C7.21756 8.78553 7.43795 8.9398 7.67767 8.99956C7.88943 9.05234 8.1109 9.05234 8.32265 8.99956C8.56238 8.9398 8.78277 8.78553 9.22355 8.47698L14.6668 4.66669M4.5335 13.3334H11.4668C12.5869 13.3334 13.147 13.3334 13.5748 13.1154C13.9511 12.9236 14.2571 12.6177 14.4488 12.2413C14.6668 11.8135 14.6668 11.2535 14.6668 10.1334V5.86669C14.6668 4.74658 14.6668 4.18653 14.4488 3.75871C14.2571 3.38238 13.9511 3.07642 13.5748 2.88467C13.147 2.66669 12.5869 2.66669 11.4668 2.66669H4.5335C3.41339 2.66669 2.85334 2.66669 2.42552 2.88467C2.04919 3.07642 1.74323 3.38238 1.55148 3.75871C1.3335 4.18653 1.3335 4.74658 1.3335 5.86669V10.1334C1.3335 11.2535 1.3335 11.8135 1.55148 12.2413C1.74323 12.6177 2.04919 12.9236 2.42552 13.1154C2.85334 13.3334 3.41339 13.3334 4.5335 13.3334Z" stroke="black" stroke-opacity="0.2" stroke-linecap="round" stroke-linejoin="round"></path></svg></a></div></div>
+                            <div class="writer-article-list p-1 mb-6">
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item p-3 d-flex align-items-center justify-content-between"><a href="/news/cruise/american-queen-voyages-unveils-great-ameri-cation-sale" class="link-wrapper d-flex flex-row align-items-center"  data-tpgk="58856785"   title="American Queen Voyages Unveils ‘Great Ameri-Cation Sale’"><span>American Queen Voyages Unveils ‘Great Ameri-Cation Sale’</span></a></li><li class="list-group-item p-3 d-flex align-items-center justify-content-between"><a href="/news/agents/travel-advisor-success-stories-linda-de-sosa-travel-experts" class="link-wrapper d-flex flex-row align-items-center"  title="Travel Advisor Success Stories: Linda de Sosa, Travel Experts"><span>Travel Advisor Success Stories: Linda de Sosa, Travel Experts</span></a></li><li class="list-group-item p-3 d-flex align-items-center justify-content-between"><a href="/news/cruise/crystal-unveils-new-design-concepts-for-its-two-ship-fleet" class="link-wrapper d-flex flex-row align-items-center"  data-tpgk="58851321"   title="Crystal Unveils New Design Concepts for Its Two-Ship Fleet"><span>Crystal Unveils New Design Concepts for Its Two-Ship Fleet</span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+                    <div class="col-12 col-lg-4">
+                        
+                            <div>
+                                <div class="related-cards-v mt-3 type-blogs">
+                                    <div class="d-flex justify-content-between pb-2">
+                                        <h3 class="heading text-uppercase p-0">
+                                            <a href="/Voices/Blogs" class="link-wrapper"  title="Travel Blogs">Travel Blogs</a></h3>
+                                    </div>
+                                    <div class="border-top-r mb-4"></div>
+                                    <div class="one-card-row">
+                                        <a href="/voices/blogs/explore-the-picturesque-waterways-of-france" class="link-wrapper"  data-tpgk="58855391"   title="Explore the Picturesque Waterways of France"><div class="card-set"><div class="ps-3"><h4 class="related-name">Explore the Picturesque Waterways of France</h4></div></div></a><a href="/voices/blogs/how-to-spend-72-hours-in-china-s-ancient-capital-nanjing" class="link-wrapper"  data-tpgk="58846104"   title="How To Spend 72 Hours in China’s Ancient Capital: Nanjing"><hr><div class="card-set"><div class="ps-3"><h4 class="related-name">How To Spend 72 Hours in China’s Ancient Capital: Nanjing</h4></div></div></a><a href="/voices/blogs/last-minute-summer-savings" class="link-wrapper"  data-tpgk="58781302"   title="Last-Minute Summer Savings"><hr><div class="card-set"><div class="ps-3"><h4 class="related-name">Last-Minute Summer Savings</h4></div></div></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <div class="d-flex flex-row justify-content-center pt-6 mt-6">
+                            <div class="card-aadd d-none d-lg-block"><div id="div-gpt-ad-Right3"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-Right3');
+</script>
+</div>
+</div><div class="card-aadd d-lg-none d-block"><div id="div-gpt-ad-mobile-Right3"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-mobile-Right3');
+</script>
+</div>
+</div>
+                        </div>
+                    </div>
+                
+            </div>
+
+
+            <div class="text-center"><div ><a href="/Voices/Opinions"  class="btn btn-primary mt-12 mb-5 mb-md-0 py-2 px-3 btn-sm"  role="button"   title="Find Out More" >Find Out More</a></div></div>
+
+        </div>
+
+    
+
+
+
+</div>
+</div>
+
+
+<div class="container-fluid p-0" style="clear:both;">
+<div class="container pt-2"><h2 class="none text-white pt-10 none section-name text-center text-uppercase text-white">Featured Video</h2></div>
+<div class="pb-10 d-flex justify-content-center mx-auto text-center" style="color: #fff;width:600px; text-align: center; margin: auto;"><article><h4><a href="/videos/agents/dear-suppliers-heres-what-travel-advisors-want" class="link-wrapper"  title="Dear Suppliers, Here's What Travel Advisors Want">Dear Suppliers, Here's What Travel Advisors Want</a></h4><div class="p video-wrapper hidden-print"> <video-js data-account="77372821001" data-player="dawOWibIOl" data-embed="default" data-autoplay="true" id="vid_9af169d0-64c2-4f8f-b7b5-39855f8011c0" controls="" data-video-id="6330522136112" data-playlist-id="" data-application-id="" class="vjs-fluid"></video-js><script src="https://players.brightcove.net/77372821001/dawOWibIOl_default/index.min.js"></script></div></article></div>
+
+<div class="aadd-2 py-4 d-none d-lg-block"><div id="div-gpt-ad-Middle-2"  class="col-md-12 aadd-3">
+<script>
+renderAd('div-gpt-ad-Middle-2');
+</script>
+</div>
+</div><div class="aadd-2 py-4 d-lg-none d-block"><div id="div-gpt-ad-mobile-Mobile-Middle-2"  class="col-md-12 aadd-3">
+<script>
+renderAd('div-gpt-ad-mobile-Mobile-Middle-2');
+</script>
+</div>
+</div>
+
+
+</div>
+
+
+<div style="clear:both"  class="container py-4">
+
+
+
+</div>
+
+
+<div id="explore-destinations" class="parallax-trigger" _background="linear-gradient(0deg, rgba(47, 80, 29, 0.35), rgba(47, 80, 29, 0.35)), url('https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/explore-destinations.jpg')"><div style="clear:both"  class="container">
+
+        <div class="py-6 px-md-6 px-xs-2">
+            <div class="container pt-2"><div class="title-heading"><div class="row section-title pb-4 centered-title-container full-size-heading"><div class="section-title-content col-lg-12 d-lg-flex align-items-baseline d-sm-block"><h1 class="scroll-to-headings d-flex flex-wrap flex-sm-row text-center justify-content-center text-white">Trending Slideshows</h1></div></div></div></div>
+            <div class="row">
+                <div class="col-12 col-lg-4 d-flex flex-column justify-content-between mb-5 mb-md-0">
+                    <div>
+                        <div class="related-cards-v mt-3 type-opinions">
+                            
+                            <div class="border-top-r mb-4"></div>
+                            <div class="one-card-row">
+                                <a href="/gallery/entertainment/the-best-july-4th-celebrations-in-america" class="link-wrapper"  title="The Best July 4th Celebrations in America"><hr>
+<div class="card-set">
+<div class="image-container card-w">
+<div class="image-frame card-h card-w">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/fe938243-f60e-26d5-a514-d642f928a3d4/source/The-Best-July-4th-Celebrations-in-America.jpg?tr=w-85%2Ch-85%2Cfo-auto"  alt="Pops on the River, Little Rock, Fireworks, July 4th"  title="Fireworks explode over Little Rock during Pops on the River"   class="cropped-image" loading="lazy"/>
+</div>
+</div>
+<div class="ps-3">
+<h4 class="related-name">The Best July 4th Celebrations in America</h4>
+</div>
+</div>
+</a><a href="/gallery/entertainment/every-states-best-events-in-july-2023" class="link-wrapper"  title="Every State's Best July Events"><hr>
+<div class="card-set">
+<div class="image-container card-w">
+<div class="image-frame card-h card-w">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/ccfd4971-04f3-ead2-02e1-d9cc14f4a2bf/source/Every-State%27s-Best-July-Events.jpg?tr=w-85%2Ch-85%2Cfo-auto"  alt="Fireworks near the Gateway Arch in St. Louis"  title="Fireworks near the Gateway Arch in St. Louis"   class="cropped-image" loading="lazy"/>
+</div>
+</div>
+<div class="ps-3">
+<h4 class="related-name">Every State's Best July Events</h4>
+</div>
+</div>
+</a><a href="/gallery/hotels-and-resorts/pamper-yourself-in-paradise-at-grand-sirenis-punta-cana" class="link-wrapper"  data-tpgk="58846103"   title="Pamper Yourself in Paradise at Grand Sirenis Punta Cana"><hr>
+<div class="card-set">
+<div class="image-container card-w">
+<div class="image-frame card-h card-w">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/2c747082-b62e-4fac-bf5d-389b2644316b/source/Pamper-Yourself-in-Paradise-at-Grand-Sirenis-Punta.jpeg?tr=w-85%2Ch-85%2Cfo-auto"  alt="Grand Sirenis Punta Cana"  title="Grand Sirenis Punta Cana"   class="cropped-image" loading="lazy"/>
+</div>
+</div>
+<div class="ps-3">
+<h4 class="related-name">Pamper Yourself in Paradise at Grand Sirenis Punta Cana</h4>
+</div>
+</div>
+</a><a href="/gallery/destinations/top-destination-travel-news-from-june-2023" class="link-wrapper"  title="Top Destination Travel News From June"><hr>
+<div class="card-set">
+<div class="image-container card-w">
+<div class="image-frame card-h card-w">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/e5adb002-b398-4e4b-b368-afc099bcbf19/source/Top-Destination-Travel-News-From-June.jpg?tr=w-85%2Ch-85%2Cfo-auto"  alt="Hawaii Tourism Authority, Moloka'i, Molokai, community tourism, voluntourism"  title="Two volunteers work to restore the island of Moloka'i with Moloka'i Land Trust, which was awarded funding by the HTA. "   class="cropped-image" loading="lazy"/>
+</div>
+</div>
+<div class="ps-3">
+<h4 class="related-name">Top Destination Travel News From June</h4>
+</div>
+</div>
+</a><a href="/gallery/hotels-and-resorts/top-hotel-resort-news-from-june-2023" class="link-wrapper"  title="Top Hotel & Resort News From June"><hr>
+<div class="card-set">
+<div class="image-container card-w">
+<div class="image-frame card-h card-w">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/ce12e3ff-d427-43a7-8a39-7a465649eb3f/source/Top-Hotel-%26-Resort-News-From-June.jpeg?tr=w-85%2Ch-85%2Cfo-auto"  alt="Meliá Hotels International, ZEL, Mallorca, the Balearic Islands, Spain, guest room, the Mediterranean, swimming pools, beach clubs"  title="Rendering of ZEL Mallorca's Beach Club Pool. "   class="cropped-image" loading="lazy"/>
+</div>
+</div>
+<div class="ps-3">
+<h4 class="related-name">Top Hotel & Resort News From June</h4>
+</div>
+</div>
+</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="col-12 col-lg-4 ps-5 pe-5 d-flex flex-column justify-content-between">
+                    <div class="mixins mixins-content-tile">
+                        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-1 g-4">
+                            <div class="item mb-4 w-100 p-0 position-relative">
+<a href="/gallery/features/travel-deals-top-offers-for-july" class="link-wrapper"  data-tpgk="58855337"   title="Travel Deals: Top Offers for July"  ><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/d602e1aa-b7fc-2d92-87a7-629b7e2d2af0/source/Travel-Deals-Top-Offers-for-July.jpg?tr=w-350%2Ch-268%2Cfo-auto"  alt="travel, save, savings, money, cash, discounts, deals, packing, suitcase, luggage, passport, phone, vacation, summer, beach"  title="travel savings"   class="image mx-auto w-100" loading="lazy"/></a>
+<div class="item-content position-absolute ps-3 pe-3 pt-3 w-100">
+<div class="title mb-3"><a href="/gallery/features/travel-deals-top-offers-for-july" class="link-wrapper"  data-tpgk="58855337"   title="Travel Deals: Top Offers for July">Features & Advice</a></div>
+<div class="text mb-3"><a href="/gallery/features/travel-deals-top-offers-for-july" class="link-wrapper"  data-tpgk="58855337"   title="Travel Deals: Top Offers for July">Travel Deals: Top Offers for July</a></div>
+</div>
+</div>
+<div class="item mb-4 w-100 p-0 position-relative">
+<a href="/gallery/destinations/a-photo-tour-journey-through-morocco" class="link-wrapper"  title="A Photo Tour Journey Through Morocco"  ><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/05233284-f248-4ee5-95f2-73e1fc95cd74/source/A-Photo-Tour-Journey-Through-Morocco.png?tr=w-350%2Ch-268%2Cfo-auto"  alt="Hassan II Mosque Casablanca"  title="Hassan II Mosque Casablanca"   class="image mx-auto w-100" loading="lazy"/></a>
+<div class="item-content position-absolute ps-3 pe-3 pt-3 w-100">
+<div class="title mb-3"><a href="/gallery/destinations/a-photo-tour-journey-through-morocco" class="link-wrapper"  title="A Photo Tour Journey Through Morocco">Destinations</a></div>
+<div class="text mb-3"><a href="/gallery/destinations/a-photo-tour-journey-through-morocco" class="link-wrapper"  title="A Photo Tour Journey Through Morocco">A Photo Tour Journey Through Morocco</a></div>
+</div>
+</div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 ps-5 pe-5 d-flex flex-column justify-content-between pt-2">
+                     <div class="d-flex flex-row justify-content-center mb-4">                
+                        <div class="card-aadd d-none d-lg-block"><div id="div-gpt-ad-Right5"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-Right5');
+</script>
+</div>
+</div><div class="card-aadd d-lg-none d-block"><div id="div-gpt-ad-mobile-Right5"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-mobile-Right5');
+</script>
+</div>
+</div>
+                        </div>
+ 
+                    <div class="mixins mixins-content-tile">
+                        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-1 g-4">
+                            <div class="item mb-4 w-100 p-0 position-relative">
+<a href="/gallery/impacting-travel/the-key-travel-advisories-announced-in-june" class="link-wrapper"  title="The Key Travel Advisories Announced in June"  ><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/e218beed-8e46-4bff-8566-79efdd84b2de/source/The-Key-Travel-Advisories-Announced-in-June.jpg?tr=w-350%2Ch-268%2Cfo-auto"  alt="A paraglider flies over the Larcomar in Lima, Peru"  title="A paraglider flies over the Larcomar in Lima, Peru"   class="image mx-auto w-100" loading="lazy"/></a>
+<div class="item-content position-absolute ps-3 pe-3 pt-3 w-100">
+<div class="title mb-3"><a href="/gallery/impacting-travel/the-key-travel-advisories-announced-in-june" class="link-wrapper"  title="The Key Travel Advisories Announced in June">Impacting Travel</a></div>
+<div class="text mb-3"><a href="/gallery/impacting-travel/the-key-travel-advisories-announced-in-june" class="link-wrapper"  title="The Key Travel Advisories Announced in June">The Key Travel Advisories Announced in June</a></div>
+</div>
+</div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center"><a href="/News"  class="mt-6 mb-5 mb-md-0 py-2 px-3 btn btn-sm"     title="See All News" >See All News</a></div>
+            </div>
+        </div>
+    
+
+
+</div>
+</div>
+
+
+<div style="clear:both"  class="container py-4">
+</div>
+
+
+<div id="discover-new-offers" class="parallax-trigger" _background="linear-gradient(0deg, rgba(47, 80, 29, 0.35), rgba(47, 80, 29, 0.35)), url('https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/discover-new-offers.jpg')"><div style="clear:both"  class="container">
+
+        <div class="container py-6 px-md-6 px-xs-2">
+            <div class="container pt-2"><div class="title-heading"><div class="row section-title pb-4 centered-title-container full-size-heading"><div class="section-title-content col-lg-12 d-lg-flex align-items-baseline d-sm-block"><h1 class="scroll-to-headings d-flex flex-wrap flex-sm-row text-center justify-content-center text-white"><a href="/Offers">Featured Travel Offers</a></h1></div></div></div></div>
+            <div class="row">
+                <div class="col-12 col-lg-6 card-with-label single-card-with-label pb-4">
+                    <a href="/offers/tour-operators/join-the-adventure-summer-sale" class="link-wrapper"  data-tpgk="58855330"   title="Join the Adventure Summer Sale"><div class="card h-100">
+<div class="card-image-container overflow-hidden position-relative">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/3adfe245-f469-4eb5-a8df-2a274bb3c873/source/Join-the-Adventure-Summer-Sale.jpg?tr=w-550%2Ch-350%2Cfo-auto"  alt="Join the Adventure Summer Sale"  title="Join the Adventure Summer Sale"   class="card-image" loading="lazy"/>
+</div>
+<div class="card-body">
+<p class="card-label p-2 ps-3 text-start">View Offer</p>
+<p class="card-title">Tour Operators</p>
+<p class="card-text">Join the Adventure Summer Sale</p>
+<div class="d-flex justify-content-between align-items-center"><span class="meta">Ends in 22 days</span></div>
+</div>
+</div>
+</a>
+                </div>
+                <div class="col-12 col-lg-2 d-none d-lg-block mixins arrayed-cards-with-label">
+                    <div class="row row-cols-1 g-4">
+                        <div class="col"><a href="/offers/cruise/save-20-for-a-limited-time-on-select-2023-and-2024-europe-and-mekong-river-cruises-with-amawaterways" class="link-wrapper"  data-tpgk="58855329"   title="Save 20% for a limited time on select 2023 and 2024 Europe and Mekong River cruises with AmaWaterways"><div class="card d-flex flex-row flex-sm-column h-100 card-with-label">
+<div class="card-image-container Mobile overflow-hidden position-relative">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/29bf47e8-638d-4503-8a3b-79e536a4cc2d/source/Save-20%25-for-a-limited-time-on-select-2023-and-202.jpg?tr=w-160%2Ch-100%2Cfo-auto"  alt="Take advantage of 20% cruise savings on Europe or Mekong River cruises with AmaWaterways"  title="Take advantage of 20% cruise savings on Europe or Mekong River cruises with AmaWaterways"   class="card-image" loading="lazy"/>
+</div>
+<div class="card-body py-0 py-sm-3">
+<p class="card-label d-none d-sm-block p-2 ps-3 text-start">View Offer</p>
+<p class="card-text mb-1 mb-sm-2">Save 20% for a limited time on select 2023 and 2024 Europe and Mekong River cruises with AmaWaterways</p>
+</div>
+</div>
+</a></div><div class="col"><a href="/offers/hotels-and-resorts/amante-one-bedroom-oceanview-butler-grande-suite-2147324549" class="link-wrapper"  data-tpgk="58855327"   title="Amante One Bedroom Oceanview Butler Grande Suite"><div class="card d-flex flex-row flex-sm-column h-100 card-with-label">
+<div class="card-image-container Mobile overflow-hidden position-relative">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/da88c072-c2dd-4edd-8013-f2c4b68a9b8b/source/Amante-One-Bedroom-Oceanview-Butler-Grande-Suite.jpg?tr=w-160%2Ch-100%2Cfo-auto"  alt="Amante One Bedroom Oceanview Butler Grande Suite"  title="Amante One Bedroom Oceanview Butler Grande Suite"   class="card-image" loading="lazy"/>
+</div>
+<div class="card-body py-0 py-sm-3">
+<p class="card-label d-none d-sm-block p-2 ps-3 text-start">View Offer</p>
+<p class="card-text mb-1 mb-sm-2">Amante One Bedroom Oceanview Butler Grande Suite</p>
+</div>
+</div>
+</a></div><div class="col"><a href="/offers/destinations/have-a-one-of-a-kind-experience-in-the-dominican-republic" class="link-wrapper"  data-tpgk="58851347"   title="Have a one-of-a kind experience in the Dominican Republic"><div class="card d-flex flex-row flex-sm-column h-100 card-with-label">
+<div class="card-image-container Mobile overflow-hidden position-relative">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/74c3a6c8-e040-4016-8809-56d9955d38f0/source/Have-a-one-of-a-kind-experience-in-the-Dominican-R.jpg?tr=w-160%2Ch-100%2Cfo-auto"  alt="Have a one-of-a kind experience in Dominican Republic"  title="Have a one-of-a kind experience in Dominican Republic"   class="card-image" loading="lazy"/>
+</div>
+<div class="card-body py-0 py-sm-3">
+<p class="card-label d-none d-sm-block p-2 ps-3 text-start">View Offer</p>
+<p class="card-text mb-1 mb-sm-2">Have a one-of-a kind experience in the Dominican Republic</p>
+</div>
+</div>
+</a></div>
+                    </div>
+                </div>
+                <div class="arrayed-cards-with-label d-block d-lg-none pb-4">
+                <div class="overflow-auto cards-with-label px-0">
+                    <div class="row flex-nowrap pb-4 g-0 gap-4">
+                        <div class="col"><a href="/offers/cruise/save-20-for-a-limited-time-on-select-2023-and-2024-europe-and-mekong-river-cruises-with-amawaterways" class="link-wrapper"  data-tpgk="58855329"   title="Save 20% for a limited time on select 2023 and 2024 Europe and Mekong River cruises with AmaWaterways"><div class="card h-100">
+<div class="card-image-container  overflow-hidden position-relative">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/29bf47e8-638d-4503-8a3b-79e536a4cc2d/source/Save-20%25-for-a-limited-time-on-select-2023-and-202.jpg?tr=w-160%2Ch-100%2Cfo-auto"  alt="Take advantage of 20% cruise savings on Europe or Mekong River cruises with AmaWaterways"  title="Take advantage of 20% cruise savings on Europe or Mekong River cruises with AmaWaterways"   class="card-image" loading="lazy"/>
+</div>
+<div class="card-body">
+<p class="card-label p-2 ps-3 text-start">View Offer</p>
+<p class="card-text">Save 20% for a limited time on select 2023 and 2024 Europe and Mekong River cruises with AmaWaterways</p>
+</div>
+</div>
+</a></div><div class="col"><a href="/offers/hotels-and-resorts/amante-one-bedroom-oceanview-butler-grande-suite-2147324549" class="link-wrapper"  data-tpgk="58855327"   title="Amante One Bedroom Oceanview Butler Grande Suite"><div class="card h-100">
+<div class="card-image-container  overflow-hidden position-relative">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/da88c072-c2dd-4edd-8013-f2c4b68a9b8b/source/Amante-One-Bedroom-Oceanview-Butler-Grande-Suite.jpg?tr=w-160%2Ch-100%2Cfo-auto"  alt="Amante One Bedroom Oceanview Butler Grande Suite"  title="Amante One Bedroom Oceanview Butler Grande Suite"   class="card-image" loading="lazy"/>
+</div>
+<div class="card-body">
+<p class="card-label p-2 ps-3 text-start">View Offer</p>
+<p class="card-text">Amante One Bedroom Oceanview Butler Grande Suite</p>
+</div>
+</div>
+</a></div><div class="col"><a href="/offers/destinations/have-a-one-of-a-kind-experience-in-the-dominican-republic" class="link-wrapper"  data-tpgk="58851347"   title="Have a one-of-a kind experience in the Dominican Republic"><div class="card h-100">
+<div class="card-image-container  overflow-hidden position-relative">
+<img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/74c3a6c8-e040-4016-8809-56d9955d38f0/source/Have-a-one-of-a-kind-experience-in-the-Dominican-R.jpg?tr=w-160%2Ch-100%2Cfo-auto"  alt="Have a one-of-a kind experience in Dominican Republic"  title="Have a one-of-a kind experience in Dominican Republic"   class="card-image" loading="lazy"/>
+</div>
+<div class="card-body">
+<p class="card-label p-2 ps-3 text-start">View Offer</p>
+<p class="card-text">Have a one-of-a kind experience in the Dominican Republic</p>
+</div>
+</div>
+</a></div> 
+                    </div>
+                </div>
+            </div>
+                <div class="col-12 col-lg-4 d-flex flex-column justify-content-between ad-column">
+                    <div class="d-flex flex-row justify-content-center mb-4">
+                        <div class="card-aadd d-none d-lg-block"><div id="div-gpt-ad-Right6"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-Right6');
+</script>
+</div>
+</div><div class="card-aadd d-lg-none d-block"><div id="div-gpt-ad-mobile-Right6"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-mobile-Right6');
+</script>
+</div>
+</div>
+                    </div>
+                    <div class="d-flex flex-row justify-content-center">
+                        <div class="card-aadd d-none d-lg-block"><div id="div-gpt-ad-Right7"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-Right7');
+</script>
+</div>
+</div><div class="card-aadd d-lg-none d-block"><div id="div-gpt-ad-mobile-Right7"  class="nolabel">
+<script>
+renderAd('div-gpt-ad-mobile-Right7');
+</script>
+</div>
+</div>
+                    </div>
+                </div>
+                <div class="container w-100 d-flex flex-column justify-items-center pt-4 pt-lg-0"><a href="/Offers"  class="btn btn-see-more mx-auto mt-12 py-1 px-2"     title="See More Offers" >See More Offers</a></div>
+            </div>
+        </div>
+    
+
+
+</div>
+</div>
+
+
+<div class="container-fluid p-0" style="clear:both;background-size: cover;background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 33.6%, #000000 100%), url('https://ik.imgkit.net/3vlqs5axxjf/TP-US/uploadedImages/Homepage Capsule.jpeg')">
+<div class="title-heading"><div class="row section-title pb-4 centered-title-container full-size-heading"><div class="section-title-content col-lg-12 d-lg-flex align-items-baseline d-sm-block"><h1 class="scroll-to-headings d-flex flex-wrap flex-sm-row text-center justify-content-center pt-13 d-flex justify-content-center mx-auto text-white">TravelPulse Education</h1></div></div></div>
+<div class="pb-13"><div class="container py-4"> <div class="mixins s-news invert podcast-section"><div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-3 g-4"><div class="col"><a href="/videos/agents/want-more-just-hit-go-with-cruise-planners" class="card d-flex flex-row flex-sm-column h-100"  data-tpgk="58627468"   title="Want More?  Just Hit GO! with Cruise Planners"><div class="card-image-container mobile overflow-hidden position-relative"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/77372821001/2356e5fe-d42f-4049-bd1c-e947fd6855ac/main/1280x720/1m46s410ms/match/image/Want-More%3f-Just-Hit-GO-with-Cruise-Planners.jpg?tr=w-350%2Ch-220%2Cfo-auto"  alt="'Want More?  Just Hit &#8220;GO!&#8221; with Cruise Planners'"  title="Want More?  Just Hit &#8220;GO!&#8221; with Cruise Planners"   class="card-image" loading="lazy"/><img src="/dist/images/icons/play.svg" alt= alt="Video"  title="Video"  class="play-button"></div><div class="card-body py-0 py-sm-3"><div class="card-underline d-none d-sm-block"></div><div class="d-flex justify-content-between"><p class="card-title-1 mb-0 mb-sm-2">Agents</p><img class="article-type-icon d-none d-sm-block" src="/dist/images/icons/video.svg"  alt="Video"  title="Video" ></div><p class="card-text mb-1 mb-sm-2">Want More?  Just Hit GO! with Cruise Planners</p><div class="d-flex justify-content-between align-items-center"><span class="name">March 14, 2023</span></div></div></a></div><div class="col"><a href="https://signup.travelpulse.com/virtualtravelevents/" class="card d-flex flex-row flex-sm-column h-100"  title="RSVP"><div class="card-image-container mobile overflow-hidden position-relative"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/5a643602-dd79-4d1f-a62d-9f044760e501/source/RSVP-Today-Romance-Weddings-%26-Honeymoons-Expo--Sep.jpg?tr=w-350%2Ch-220%2Cfo-auto"  alt="Romance Expo"  title="Romance Expo"   class="card-image" loading="lazy"/></div><div class="card-body py-0 py-sm-3"><div class="card-underline d-none d-sm-block"></div><p class="card-text mb-1 mb-sm-2">RSVP Today: Romance, Weddings & Honeymoons Expo - Sept 13-14</p><div class="d-flex justify-content-between align-items-center"><span class="name">July 10, 2022</span></div></div></a></div><div class="col"><a href="https://signup.travelpulse.com/travelagentacademy-featured/" class="card d-flex flex-row flex-sm-column h-100"  title="Start Learning"><div class="card-image-container mobile overflow-hidden position-relative"><img src="https://ik.imgkit.net/3vlqs5axxjf/MM-TP/ik-seo/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/b80cdf8b-bc1b-6761-9aa9-ec1569c6a1f4/source/Start-Learning-Become-a-Tokyo-Specialist.jpg?tr=w-350%2Ch-220%2Cfo-auto"  alt="Biking in Tokyo"  title="Biking in Tokyo"   class="card-image" loading="lazy"/></div><div class="card-body py-0 py-sm-3"><div class="card-underline d-none d-sm-block"></div><p class="card-text mb-1 mb-sm-2">Start Learning: Become a Tokyo Specialist</p><div class="d-flex justify-content-between align-items-center"><span class="name">July 10, 2022</span></div></div></a></div></div></div></div></div>
+
+
+</div>
+
+
+
+		
+
+
+
+
+                
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9B0F9472" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div></form>
+
+                
+                    <div class="container">
+                        <div class="bottom-ad">
+                            <div class="frame mx-auto">
+                                <div id="div-gpt-ad-Bottom" >
+<script>
+renderAd('div-gpt-ad-Bottom');
+</script>
+</div>
+<div class="d-lg-none d-block"><div id="div-gpt-ad-mobile-Mobile-Bottom" >
+<script>
+renderAd('div-gpt-ad-mobile-Mobile-Bottom');
+</script>
+</div>
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+
+             </div>
+
+
+            <div class="d-none d-lg-block"><div id="div-gpt-ad-tpfooter"  style="min-width: 300px; min-height: 50px;">
+<script>
+renderAd('div-gpt-ad-tpfooter');
+</script>
+</div>
+</div><div class="d-lg-none d-block"><div id="div-gpt-ad-mobile-tpfooter"  style="min-width: 300px; min-height: 50px;">
+<script>
+renderAd('div-gpt-ad-mobile-tpfooter');
+</script>
+</div>
+</div>
+
+
+<!-- Footer -->
+<footer>
+    <div class="footer news-gradient-bg">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="accordion" id="accordionFooter">
+
+                        <div class="accordion-item border-0">
+                            <div class="accordion-header border-top" id="accordionDrawerOne"> <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-label="TravelPulse US Links"  aria-expanded="true" aria-controls="collapseOne"><img width="146" height="38"  alt="TravelPulse US"  title="TravelPulse US"  loading="lazy" src="https://ik.imgkit.net/3vlqs5axxjf/TP-US/ik-seo/uploadedImages/Site_Management/US/TPUSLogo/TravelPulse-US.svg?tr=w-146%2Ch-38%2Cfo-auto"></button></div>
+                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="accordionDrawerOne" data-bs-parent="#accordionFooter"><div class="accordion-body"><div class="row row-cols-2 row-cols-xl-3 g-3"><div class="col"><a clas=="d-flex flex-nowrap" href ="/News" title="News" >News</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="/Offers" title="Offers" >Offers</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="/Voices/Opinions" title="Opinions" >Opinions</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="/Destinations" title="Destinations" >Destinations</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="/Voices/Blogs" title="Blogs" >Blogs</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="/Videos" title="Videos" >Videos</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="/Suppliers" title="Suppliers" >Suppliers</a></div></div></div></div>
+                        </div>
+
+                        <div class="accordion-item border-0">
+                            <div class="accordion-header border-top" id="accordionDrawerTwo"> <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-label="Northstar Travel Group Links" aria-expanded="false" aria-controls="collapseTwo"><img width="165" height="50"  alt="Northstar Travel Group"  title="Northstar Travel Group"  loading="lazy" src="https://ik.imgkit.net/3vlqs5axxjf/TP-US/ik-seo/uploadedImages/Site_Management/US/TPUSNTGLogo/Northstar-Travel-Group.svg?tr=w-165%2Ch-50%2Cfo-auto"></button></div>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="accordionDrawerTwo" data-bs-parent="#accordionFooter"><div class="accordion-body"><div class="row row-cols-2 row-cols-xl-3 g-3"><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.travelpulse.com" target="_blank" rel="noopener" title="TravelPulse" >TravelPulse</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.travelweekly.com" target="_blank" rel="noopener" title="Travel Weekly" >Travel Weekly</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.travelagewest.com" target="_blank" rel="noopener" title="TravelAge West" >TravelAge West</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.northstartravelgroup.com/Audiences/Corporate-Travel" target="_blank" rel="noopener" title="Corporate Travel" >Corporate Travel</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://ca.travelpulse.com/" target="_blank" rel="noopener" title="TravelPulse Canada" >TravelPulse Canada</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.travelweekly-asia.com/" target="_blank" rel="noopener" title="Travel Weekly Asia" >Travel Weekly Asia</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.hotelinvestmenttoday.com" target="_blank" rel="noopener" title="Hotel Investment" >Hotel Investment</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.northstartravelgroup.com/Audiences/Meetings-Incentives" target="_blank" rel="noopener" title="Meetings & Incentives" >Meetings & Incentives</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://signup.travelpulse.com/travelagentacademy/" target="_blank" rel="noopener" title="Travel Agent Academy" >Travel Agent Academy</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.travelpulsequebec.ca/" target="_blank" rel="noopener" title="TravelPulse Quebec" >TravelPulse Quebec</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.travelweekly-china.com/" target="_blank" rel="noopener" title="Travel Weekly China" >Travel Weekly China</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.northstartravelgroup.com/Audiences/Travel-Technology" target="_blank" rel="noopener" title="Travel Technology" >Travel Technology</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://www.northstartravelgroup.com/Solutions/Data" target="_blank" rel="noopener" title="Data Products" >Data Products</a></div><div class="col"><a clas=="d-flex flex-nowrap" href ="https://signup.travelpulse.com/virtualtravelevents/" target="_blank" rel="noopener" title="Digital Events & Seminars" >Digital Events & Seminars</a></div></div></div></div>
+                        </div>
+                    </div>
+
+                    <div class="footer-icon text-center py-3"><ul class="list-unstyled mb-0 d-flex align-items-center justify-content-evenly"><li class="d-inline-block">Follow Us</li><li class="d-inline-block"><a href="https://www.facebook.com/travelpulse" target="_blank" rel="noopener" title="TravelPulse US on Facebook" ><img src="/dist/images/icons/social-facebook.svg" loading="lazy"  alt="TravelPulse US on Facebook" ></img></a></li><li class="d-inline-block"><a href="https://twitter.com/travelpulse" target="_blank" rel="noopener" title="TravelPulse US on Twitter" ><img src="/dist/images/icons/social-twitter1.svg" loading="lazy"  alt="TravelPulse US on Twitter" ></img></a></li><li class="d-inline-block"><a href="https://www.linkedin.com/company/travelpulse?trk=company_logo" target="_blank" rel="noopener" title="TravelPulse US on LinkedIn" ><img src="/dist/images/icons/social-linkedin.svg" loading="lazy"  alt="TravelPulse US on LinkedIn" ></img></a></li><li class="d-inline-block"><a href="http://www.youtube.com/user/travelpulse" target="_blank" rel="noopener" title="TravelPulse US on YouTube" ><img src="/dist/images/icons/social-youtube.svg" loading="lazy"  alt="TravelPulse US on YouTube" ></img></a></li><li class="d-inline-block"><a href="https://www.instagram.com/travelpulse" target="_blank" rel="noopener" title="TravelPulse US on Instagram" ><img src="/dist/images/icons/social-instagram30.svg" loading="lazy"  alt="TravelPulse US on Instagram" ></img></a></li></ul></div>
+                    <div class="term-privacy text-center pt-3 py-2"><ul class="list-unstyled mb-0"><li class="d-inline-block"><a href ="https://www.northstartravelgroup.com/about-us/advertising-terms-and-conditions" target="_blank" rel="noopener" title="Terms of Use" >Terms of Use</a></li><li class="d-inline-block ps-3"><a href ="http://adhost1.ntmllc.com/twxads/privacy_0404.htm" target="_blank" rel="noopener" title="Privacy Policy" >Privacy Policy</a></li><li class="d-inline-block ps-3 pt-c-8"><a href ="/Copyright" title="Copyright" >Copyright</a></li><li class="d-inline-block ps-3 pt-c-8"><a href ="/Contact-Us" title="Contact Us" >Contact Us</a></li></ul></div>
+                    <p class="text-center px-lg-0 px-1">Copyright © 2023 Northstar Travel Media, LLC. All Rights Reserved. 301 Route 17 N, Suite 1150, Rutherford, NJ 07070 USA | Telephone: (201) 902-2000</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+        </div>
+
+
+    </div>
+
+
+
+        
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () { var lazyBackgrounds = [].slice.call(document.querySelectorAll(".lazy-background")); if ("IntersectionObserver" in window) { let lazyBackgroundObserver = new IntersectionObserver(function (entries, observer) { entries.forEach(function (entry) { if (entry.isIntersecting) { entry.target.classList.remove("lazy-background"); lazyBackgroundObserver.unobserve(entry.target) } }) }); lazyBackgrounds.forEach(function (lazyBackground) { lazyBackgroundObserver.observe(lazyBackground) }) } })
+    </script>
+
+    <script src="/dist/js/scripts.min.js?202306263"></script>
+       
+        <script src="/dist/js/cwrlog.js?20230628"></script>
+    
+    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-632912b4e36726fd"></script>
+	<script type="text/javascript">
+        var addthis_share = addthis_share || {}; addthis_share = { passthrough: { twitter: { via: "" }}}
+    </script>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>                                                   
+    
+
+    <script> 
+    $(document).ready(function() {
+        var scriptLT = document.createElement('script'); scriptLT.src = '/dist/js/scripts_ft.min.js?202306142'; document.head.appendChild(scriptLT);
+    });
+    </script>
+
+
+    <script>
+var bMenuHolderPage=false;
+</script>
+
+    <script>
+        try{initPage()}catch(ex){}
+    </script>
+    
+
+
+
+    
+
+
+</body>
+</html>
+
